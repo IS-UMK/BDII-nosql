@@ -1,0 +1,1672 @@
+18
+0 : Wrzosy I
+1 : Zagonowa
+3 : Lisia
+4 : św. Antoniego
+6 : Bartkiewiczówny
+7 : Żwirki i Wigury
+9 : Szpital Bielany
+10 : św. Józefa
+11 : Od Nowa
+12 : Akademiki
+13 : Aula UMK
+14 : Okrężna
+16 : Łukasiewicza
+17 : Szosa Bydgoska
+19 : Oczyszczalnia
+20 : Centrum Handlowe-Zachód
+21 : Starotoruńska
+23 : Port Drzewny
+-----
+5 : 23
+6 : 23
+7 : 0,28,56
+8 : 31
+9 : 46
+11 : 1
+12 : 16
+13 : 10,29
+14 : 15,45
+15 : 21
+16 : 0,25
+17 : 10
+18 : 15
+19 : 31
+20 : 31
+21 : 28
+=====
+16
+0 : Wrzosy I
+1 : Zagonowa
+2 : Lisia
+3 : św. Antoniego
+5 : Bartkiewiczówny
+7 : Długa
+9 : Koniuchy
+11 : Wielki Rów
+13 : Polna
+14 : Batorego
+16 : Debowa Góra
+17 : Kanałowa
+19 : Hutowo
+22 : Przychodnia
+23 : Tofama
+26 : Wschodnia
+28 : Donimirskiego
+29 : Rubinkowo Centrum
+31 : Manhattan
+32 : Przybyłów
+34 : Ślaskiego
+36 : Wyszyńskiego
+37 : Ligi Polskiej
+38 : Kosynierów Kośc.
+40 : Olimpijska
+-----
+4 : 50
+5 : 15,40
+6 : 8,34
+7 : 8,35
+8 : 6,50
+9 : 35,43
+10 : 20
+11 : 5,50
+12 : 35
+13 : 0,30
+14 : 2,45
+15 : 10,45
+16 : 20,46
+17 : 21,53
+=====
+33
+0 : Olimpijska
+1 : Kosynierów Kośc.
+2 : Ligi Polskiej
+3 : Wyszyńskiego
+5 : Ślaskiego
+7 : Przybyłów
+8 : Manhattan
+10 : Rubinkowo Centrum
+11 : Donimirskiego
+13 : Wschodnia
+16 : Dworzec Wschodni
+19 : Fabryczna
+21 : Chrobrego
+23 : Debowa Góra
+24 : Kanałowa
+25 : Kociewska
+27 : Fort IV
+29 : Mazowiecka
+30 : Mazowiecka (pętla)
+-----
+5 : 10
+6 : 12
+7 : 18
+8 : 40
+14 : 37
+21 : 20
+=====
+19
+0 : Spacerowa
+1 : Zdrojowa
+3 : Czerniewice
+4 : Solankowa
+6 : Włocławska
+8 : Lipnowska
+10 : Rypińska
+14 : Plac Daszyńskiego
+15 : Atrium Copernicus
+16 : Dworzec Wschodni
+19 : Garbaty Mostek
+21 : Plac św. Katarzyny
+-----
+5 : 0
+6 : 0,30
+7 : 2,30
+8 : 2
+9 : 10
+10 : 5
+11 : 5
+12 : 5
+13 : 5
+14 : 8,38
+15 : 8,38
+16 : 8,38
+17 : 8
+18 : 15
+19 : 5
+20 : 5
+21 : 5
+22 : 5,52
+=====
+26
+0 : Plac Skalskiego-Toruń Plaza
+1 : Łukasiewicza
+2 : Okrężna
+3 : Aula UMK
+4 : Akademiki
+6 : Od Nowa
+7 : św. Józefa
+9 : Szpital Bielany
+11 : Boboli
+12 : Lecha
+13 : Lotników
+15 : Sczanieckiego
+16 : Kościuszki
+19 : Świętopełka
+22 : Dworzec Wschodni
+24 : Plac Daszyńskiego
+26 : Plac Daszyńskiego
+28 : Rydygiera
+29 : Rubinkowo Centrum
+31 : Manhattan
+32 : Przybyłów
+33 : Rubinkowo II
+-----
+5 : 3,28,53
+6 : 18,43
+7 : 8,33,56
+8 : 18,43
+9 : 8,33,58
+10 : 23,48
+11 : 13,38
+12 : 3,28,44
+13 : 6,26,46
+14 : 6,26,46
+15 : 6,26,46
+16 : 6,26,46
+17 : 6,33
+18 : 3,30
+19 : 0,30
+20 : 0,30
+21 : 0,30
+22 : 0,30,56
+=====
+11
+0 : Koniuchy
+1 : Lecha
+3 : Żwirki i Wigury
+5 : Szpital Bielany
+7 : św. Józefa
+9 : Od Nowa
+11 : Fałata
+14 : Kraszewskiego
+16 : Plac Rapackiego
+19 : Plac Armii Krajowej
+20 : Dworzec Główny
+22 : Strzałowa
+23 : Kniaziewicza
+24 : Plebiscytowa
+26 : Stawki
+27 : Stacja Benzynowa
+28 : Zimowa
+30 : Ceramika
+31 : Lipnowska
+33 : Włocławska
+34 : Solankowa
+36 : Czerniewice
+-----
+4 : 8,28,48
+5 : 8,23,38,53
+6 : 8,19,27,33,50
+7 : 9,29,49
+8 : 9,29,49
+9 : 9,29,49
+10 : 9,29,49
+11 : 9,29,49
+12 : 9,29,49
+13 : 9,25,40,55
+14 : 10,25,40,55
+15 : 8,23,38,53
+16 : 8,23,38,53
+17 : 8,25,42,57
+18 : 17,37,57
+19 : 17,39
+20 : 2,27,47
+21 : 10,27,43
+22 : 10,35
+=====
+03
+0 : Spacerowa
+1 : Zdrojowa
+2 : Czerniewice
+3 : Solankowa
+4 : Włocławska
+5 : Ceramika
+5 : Zimowa
+6 : Stacja Benzynowa
+7 : Zakole
+8 : Strzałowa II
+8 : Telimeny
+9 : Grzybowa
+10 : Podgórska
+11 : Łódzka
+12 : Dworzec Główny
+13 : Plac Armii Krajowej
+14 : Plac Rapackiego
+16 : Aleja Solidarności
+20 : Aleja Solidarności
+22 : Bema
+24 : Lelewela
+26 : Lecha
+27 : Żwirki i Wigury
+28 : Długa
+30 : Koniuchy
+32 : Wiśniowieckiego
+33 : Ugory
+34 : Lisia
+35 : Lniana
+36 : Słoneczna
+37 : Czeremchowa
+37 : Brzoskwiniowa
+38 : Wrzosy I (pętla)
+-----
+0 : 40
+1 : 40
+2 : 40
+3 : 40
+4 : 20
+23 : 40
+=====
+40
+0 : Plac Skalskiego-Toruń Plaza
+1 : Łukasiewicza
+2 : Okrężna
+3 : Aula UMK
+4 : Akademiki
+6 : Od Nowa
+7 : św. Józefa
+9 : Szpital Bielany
+11 : Żwirki i Wigury
+13 : Wybickiego
+14 : Popiela
+15 : Sczanieckiego
+16 : Kościuszki
+19 : Świętopełka
+22 : Dworzec Wschodni
+24 : Wschodnia
+26 : Donimirskiego
+27 : Rubinkowo Centrum
+29 : Manhattan
+30 : Przybyłów
+33 : Ślaskiego
+34 : Wyszyńskiego
+35 : Ligi Polskiej
+36 : Kosynierów Kośc.
+38 : Olimpijska
+40 : Bielawy
+-----
+5 : 13,38
+6 : 3,20,51
+7 : 16,42,53
+8 : 7,27,52
+9 : 17,42
+10 : 7,32,57
+11 : 22,47
+12 : 12,37,58
+13 : 19,39,59
+14 : 19,39,59
+15 : 19,39,59
+16 : 19,39,59
+17 : 14,42
+18 : 12,42
+19 : 12,42
+20 : 12,42
+21 : 12,42
+22 : 12,35
+23 : 4
+=====
+25
+0 : Olimpijska
+1 : Kosynierów Kośc.
+2 : Ligi Polskiej
+4 : Wyszyńskiego
+5 : Ślaskiego
+7 : Przybyłów
+10 : Bukowa
+10 : Elana B
+11 : Elana A
+12 : Przychodnia
+14 : Tofama
+17 : Chrobrego
+18 : Urząd Celny
+20 : Sczanieckiego
+22 : Popiela
+25 : Wybickiego
+27 : Hala Sportowa
+29 : Fałata
+30 : Od Nowa
+31 : Akademiki
+32 : Aula UMK
+33 : Okrężna
+34 : Uniwersytet
+-----
+6 : 0,26,58
+7 : 20,45
+8 : 17,45
+9 : 15,45
+13 : 30
+14 : 0,30
+15 : 0,30
+16 : 0,30
+17 : 0,30
+=====
+17
+0 : Cmentarz Centralny
+1 : Cmentarz Centr. II Brama
+2 : Mazowiecka (pętla)
+3 : Mazowiecka
+4 : Fort IV
+5 : Kociewska
+7 : Kanałowa
+9 : Dębowa Góra
+10 : Batorego
+12 : Polna
+14 : Wielki Rów
+16 : Kozacka
+17 : Lotników
+19 : Lecha
+20 : Żwirki i Wigury
+22 : Szpital Bielany
+24 : św. Józefa
+26 : Od Nowa
+27 : Akademiki
+28 : Aula UMK
+29 : Okrężna
+31 : Uniwersytet
+-----
+8 : 40
+10 : 0
+11 : 20
+12 : 40
+14 : 8
+15 : 20
+16 : 40
+18 : 5
+=====
+22
+0 : Olimpijska
+1 : Kosynierów Kośc.
+2 : Ligi Polskiej
+3 : Wyszyńskiego
+5 : Ślaskiego
+7 : Jamontta
+8 : Przy Skarpie
+9 : Leszczynowa
+11 : Plac Daszyńskiego
+12 : Atrium Copernicus
+14 : Dworzec Wschodni
+17 : Garbaty Mostek
+18 : Przy Kaszowniku
+22 : Aleja Solidarności
+25 : Plac Rapackiego
+28 : Plac Armii Krajowej
+30 : Dworzec Główny
+-----
+4 : 40
+5 : 0,18,38,58
+6 : 18,38,58
+7 : 18,38,58
+8 : 18,38,58
+9 : 20,40
+10 : 0,20,38,58
+11 : 18,38,58
+12 : 18,38,58
+13 : 18,38,58
+14 : 18,38,56
+15 : 16,36,56
+16 : 16,36,56
+17 : 15,40
+18 : 5,30,55
+19 : 16,20,45
+20 : 10,35
+21 : 0,25,50
+22 : 15,35
+23 : 0
+=====
+28
+0 : Uniwersytet
+1 : Okrężna
+2 : Aula UMK
+4 : Reja
+7 : Sienkiewicza
+9 : Kraszewskiego
+12 : Odrodzenia
+14 : Warneńczyka
+16 : Kościuszki
+18 : Sczanieckiego
+19 : Kozacka
+21 : Wielki Rów
+22 : Polna
+23 : Batorego
+25 : Debowa Góra
+26 : Kanałowa
+27 : Kociewska
+28 : Fort IV
+29 : Mazowiecka
+30 : Mazowiecka (pętla)
+-----
+5 : 12,39
+6 : 12,38
+7 : 5,32
+8 : 6,45
+9 : 25,58
+10 : 28,58
+11 : 28,58
+12 : 28,58
+13 : 28,58
+14 : 28,58
+15 : 28,58
+16 : 28
+=====
+05
+0 : Plac Skalskiego-Toruń Plaza
+0 : Łukasiewicza
+1 : Okrężna
+2 : Aula UMK
+3 : Akademiki
+4 : Od Nowa
+5 : św. Józefa
+6 : Szpital Bielany
+7 : Żwirki i Wigury
+8 : Długa
+9 : Koniuchy
+10 : Wielki Rów
+11 : Kozacka
+12 : Sczanieckiego
+13 : Kościuszki
+15 : Świętopełka
+17 : Dworzec Wschodni
+18 : Wschodnia
+19 : Donimirskiego
+20 : Rubinkowo Centrum
+21 : Manhattan
+22 : Przybyłów
+23 : Ślaskiego
+24 : Wyszyńskiego
+25 : Ligi Polskiej
+26 : Kosynierów Kośc.
+27 : Olimpijska
+-----
+0 : 8
+1 : 23
+2 : 38
+3 : 53
+22 : 43
+=====
+15
+0 : Rubinkowo II
+1 : Przybyłów
+3 : Manhattan
+4 : Rubinkowo Centrum
+5 : Mocarskiego
+6 : Rydygiera
+7 : Leszczynowa
+9 : Plac Daszyńskiego
+10 : Atrium Copernicus
+11 : Dworzec Wschodni
+14 : Garbaty Mostek
+15 : Przy Kaszowniku
+18 : Odrodzenia
+20 : Kraszewskiego
+22 : Sienkiewicza
+24 : Reja
+26 : Aula UMK
+27 : Okrężna
+29 : Uniwersytet
+-----
+4 : 41
+5 : 21,51
+6 : 6,19,39
+7 : 0,12,24,46
+8 : 0,25,50
+9 : 15,40
+10 : 5,30,55
+11 : 20,45
+12 : 10,35,55
+13 : 10,25,40,55
+14 : 15,30,45
+15 : 0,15,35
+16 : 0,25,50
+17 : 15,40
+18 : 5,40
+19 : 10,45
+20 : 20,55
+21 : 30
+22 : 5,40
+=====
+30
+0 : Plac św. Katarzyny
+3 : Aleja Solidarności
+6 : Przy Kaszowniku
+8 : Garbaty Mostek
+9 : Olbrachta
+11 : Dworzec Wschodni
+13 : Wschodnia
+15 : Donimirskiego
+17 : Rubinkowo Centrum
+19 : Manhattan
+20 : Przybyłów
+23 : Dziewulskiego
+27 : Barwna
+28 : Szczecińska
+29 : Suwalska
+31 : Cegielnia
+32 : Bajeczna
+34 : Nad Strugą
+-----
+5 : 7,21,35
+6 : 2,18,38
+7 : 3,19,40,55
+8 : 20,50
+9 : 22,50
+10 : 7,25,55
+11 : 25,55
+12 : 15,30,45
+13 : 30,48
+14 : 0,18,30,44
+15 : 0,15,25,40,50
+16 : 6,25,43
+17 : 9,30
+18 : 5,25
+19 : 5,25
+20 : 5,20
+21 : 30,50
+22 : 15,40
+=====
+36
+0 : Rozgarty-Stara Szkoła
+1 : Rozgarty-Leśna
+2 : Rozgarty-Wróblowa
+3 : Przysiek-Błotka
+4 : Przysiek-Szkoła
+6 : Przysiek
+7 : Port Drzewny
+8 : Starotoruńska
+9 : Centrum Handlowe-Zachód
+10 : Oczyszczalnia
+11 : Szosa Bydgoska
+13 : Plac Skalskiego-Toruń Plaza
+14 : Łukasiewicza
+15 : Okrężna
+16 : Aula UMK
+17 : Akademiki
+18 : Od Nowa
+20 : Fałata
+23 : Kraszewskiego
+25 : Plac Rapackiego
+28 : Plac Armii Krajowej
+29 : Dworzec Główny
+31 : Strzałowa
+32 : Stawki
+34 : Dandelskiego
+35 : Brązowa
+36 : Kniaziewicza
+37 : Biała
+38 : 63. Pułku Piechoty
+40 : Letnia
+41 : Drzymały
+42 : Paderewskiego
+43 : Kluczyki
+44 : Kluczyki Cmentarz
+44 : Polmozbyt
+45 : Kręta
+46 : Stepowa
+47 : Gniewkowska
+48 : Bliska
+49 : Szubińska
+-----
+5 : 8
+6 : 8,37
+7 : 5
+9 : 22
+12 : 2
+14 : 27
+15 : 27
+16 : 27
+17 : 27
+19 : 57
+23 : 11
+=====
+35
+0 : Plac św. Katarzyny
+3 : Aleja Solidarności
+6 : Przy Kaszowniku
+8 : Garbaty Mostek
+10 : Dworzec Wschodni
+12 : Wschodnia
+14 : Donimirskiego
+16 : Rubinkowo Centrum
+18 : Manhattan
+19 : Przybyłów
+22 : Dziewulskiego
+24 : Kolankowskiego
+25 : Kusocińskiego
+26 : Słupska
+28 : Odległa II
+30 : Lubicz-Lipowa
+31 : Lubicz-Kolejowa
+32 : Lubicz-Urząd Gminy
+34 : Lubicz Dolny
+36 : Lubicz Górny
+37 : Lubicz-Osiedle
+38 : Lubicz-Bankowa
+40 : Krobia-Kalinowa
+41 : Krobia-Osiedlowa
+42 : Krobia-Poligraficzna
+43 : Krobia
+-----
+5 : 10,31,57
+6 : 5,20,35,50
+7 : 8,32,42
+8 : 5,45
+9 : 5,35
+10 : 10,40
+11 : 5,40
+12 : 8,32,58
+13 : 18,38,58
+14 : 15,35,57
+15 : 7,22,43
+16 : 1,18,40,58
+17 : 18,40
+18 : 15,40
+19 : 12,35
+20 : 32
+21 : 13
+22 : 8,39
+=====
+34
+0 : Plac Skalskiego-Toruń Plaza
+1 : Łukasiewicza
+2 : Okrężna
+3 : Aula UMK
+4 : Akademiki
+6 : Od Nowa
+7 : św. Józefa
+9 : Szpital Bielany
+11 : Żwirki i Wigury
+12 : Długa
+13 : Koniuchy
+15 : Wielki Rów
+17 : Kozacka
+19 : Sczanieckiego
+20 : Kościuszki
+23 : Świętopełka
+26 : Dworzec Wschodni
+28 : Wschodnia
+30 : Donimirskiego
+31 : Rubinkowo Centrum
+33 : Manhattan
+34 : Przybyłów
+36 : Ślaskiego
+38 : Wyszyńskiego
+39 : Ligi Polskiej
+40 : Kosynierów Kośc.
+42 : Olimpijska
+-----
+4 : 57
+5 : 22,47
+6 : 12,33,59
+7 : 27,49
+8 : 0,14,35
+9 : 0,25,50
+10 : 15,40
+11 : 5,30,55
+12 : 20,47
+13 : 10,30,50
+14 : 10,30,50
+15 : 10,30,50
+16 : 10,30,50
+17 : 23,53
+18 : 21,51
+19 : 21,51
+20 : 21,51
+21 : 21,55
+22 : 21,46
+=====
+23
+0 : Plac św. Katarzyny
+3 : Garbaty Mostek
+6 : Dworzec Wschodni
+8 : Plac Daszyńskiego
+10 : Plac Daszyńskiego
+11 : Rydygiera
+13 : Przy Skarpie
+14 : Wianki
+16 : Turystyczna
+17 : Wieżowa
+19 : Księżycowa
+21 : Dożynkowa
+22 : Dyngusowa
+23 : Fantazyjna
+24 : Skierki
+24 : Wodna
+25 : Drwęca
+27 : Pomorska
+28 : Toruńska
+29 : Lipowa
+30 : Złotoria
+31 : Akacjowa
+32 : Przy Dębie
+33 : Kopanino
+-----
+4 : 47
+5 : 20,55
+6 : 30
+7 : 5,52
+8 : 25
+9 : 10,55
+10 : 40
+11 : 20
+12 : 0,40
+13 : 26
+14 : 0,43
+15 : 26
+16 : 9,52
+17 : 35
+18 : 17
+19 : 5,50
+20 : 25
+21 : 0,35
+22 : 15,37
+=====
+0
+0 : Cmentarz Centralny
+2 : Polna
+3 : Wielki Rów
+4 : Kozacka
+5 : Lotników
+7 : Lecha
+8 : Żwirki i Wigury
+10 : Szpital Bielany
+12 : św. Józefa
+13 : Od Nowa
+14 : Akademiki
+15 : Aula UMK
+16 : Okrężna
+18 : Uniwersytet
+-----
+9 : 31
+10 : 31
+11 : 31
+12 : 41
+13 : 41
+14 : 41
+15 : 41
+16 : 41
+17 : 41
+18 : 41
+=====
+32
+0 : Wrzosowa
+1 : Jastrzębia
+2 : Myśliwska
+3 : św. Antoniego
+5 : Bartkiewiczówny
+7 : Żwirki i Wigury
+9 : Wybickiego
+11 : Bema
+14 : Aleja Solidarności
+18 : Kraszewskiego
+20 : Matejki
+22 : Sienkiewicza
+24 : Reja
+26 : Aula UMK
+27 : Okrężna
+28 : Lotnisko
+29 : Bluszczowa
+30 : Orzechowa
+32 : Przy Lesie
+-----
+5 : 15,51
+6 : 26
+7 : 6,43
+8 : 31
+9 : 21
+10 : 6,51
+11 : 36
+12 : 21
+13 : 6,51
+14 : 36
+15 : 21
+16 : 6,51
+17 : 36
+18 : 21
+19 : 6,51
+20 : 28
+21 : 8,43
+22 : 20
+=====
+12
+0 : Rudak
+1 : Grzybowa
+2 : Podgórska
+3 : Łódzka
+4 : Dworzec Główny
+5 : Plac Armii Krajowej
+7 : Plac Rapackiego
+10 : Aleja Solidarności
+12 : Odrodzenia
+14 : Warneńczyka
+16 : Kościuszki
+18 : Sczanieckiego
+19 : Kozacka
+20 : Wielki Rów
+22 : Polna
+24 : Rolnicza
+25 : Traktorowa
+26 : Wiśniowieckiego
+27 : Ugory
+29 : Lisia
+30 : Zagonowa
+31 : Wrzosy I
+33 : Osiedle Leśne-Polana
+-----
+4 : 47
+5 : 6,33
+6 : 3,31,58
+7 : 25
+8 : 1,40
+9 : 13,53
+10 : 23,53
+11 : 23,53
+12 : 23,53
+13 : 23,53
+14 : 23,53
+15 : 23,53
+16 : 23,53
+17 : 23,55
+18 : 25,55
+19 : 28,58
+20 : 28,55
+21 : 17,41
+22 : 3,34,51
+=====
+41
+0 : Dworzec Wschodni
+2 : Wschodnia
+3 : Donimirskiego
+4 : Rubinkowo Centrum
+6 : Manhattan
+7 : Przybyłów
+9 : Niesiołowskiego
+10 : Bukowa
+12 : Chrzanowskiego
+13 : Chrzanowskiego II
+14 : Os. Pancernych
+15 : Kołowa
+-----
+4 : 31
+5 : 28
+6 : 28
+7 : 28
+8 : 55
+11 : 40
+13 : 10,55
+14 : 50
+15 : 50
+21 : 27
+=====
+44
+0 : Poznańska (p)
+0 : Baza Transportu
+1 : Osiedle Leśny Zakątek
+2 : Gniewkowska
+3 : Stepowa
+4 : Kręta
+5 : Polmozbyt
+5 : Kluczyki Cmentarz
+6 : Kluczyki
+7 : Poznańska (komisariat)
+8 : Parkowa
+9 : Hallera
+11 : Park Tysiąclecia
+12 : Dworzec Główny
+14 : Strzałowa
+16 : Stawki
+17 : Stacja Benzynowa
+18 : Zimowa
+19 : Ceramika
+21 : Rypińska
+25 : Plac Daszyńskiego
+28 : Donimirskiego
+29 : Rubinkowo Centrum
+31 : Manhattan
+32 : Przybyłów
+34 : Ślaskiego
+36 : Wyszyńskiego
+37 : Ligi Polskiej
+38 : Kosynierów Kośc.
+39 : Olimpijska
+42 : Barwna
+43 : Szczecińska
+44 : Suwalska
+45 : Cegielnia
+47 : Bajeczna
+48 : Nad Rzeczką
+49 : Nad Strugą
+49 : Meprozet
+50 : Wapienna
+-----
+4 : 53
+5 : 38
+6 : 8,37
+7 : 3,37
+8 : 7,40
+9 : 10,40
+10 : 10,40
+11 : 10,40
+12 : 10,40
+13 : 10,46
+14 : 10,45
+15 : 12,45
+16 : 17
+17 : 2,47
+18 : 32
+19 : 17
+20 : 2,47
+21 : 17
+22 : 10,59
+=====
+42
+0 : Olimpijska
+1 : Kosynierów Kośc.
+2 : Ligi Polskiej
+3 : Wyszyńskiego
+4 : Ślaskiego
+7 : Przybyłów
+8 : Manhattan
+10 : Rubinkowo Centrum
+11 : Donimirskiego
+13 : Wschodnia
+16 : Dworzec Wschodni
+18 : Młyn Wiedzy
+19 : Zaułek Dworcowy
+22 : Towarowa
+25 : Debowa Góra
+26 : Kanałowa
+27 : Kociewska
+29 : Fort IV
+31 : Mazowiecka
+32 : Mazowiecka (pętla)
+-----
+4 : 52
+5 : 20,55
+6 : 25,55
+7 : 31
+8 : 10
+9 : 0,27
+10 : 15,52
+11 : 30
+12 : 7,45
+13 : 18
+14 : 0,55
+15 : 25
+16 : 30,55
+17 : 38
+18 : 5,45
+=====
+01
+0 : Nad Strugą
+1 : Bajeczna
+2 : Cegielnia
+3 : Suwalska
+3 : Szczecińska
+4 : Barwna
+6 : Dziewulskiego
+8 : Przybyłów
+9 : Manhattan
+10 : Rubinkowo Centrum
+11 : Donimirskiego
+12 : Wschodnia
+13 : Dworzec Wschodni
+15 : Świętopełka
+17 : Warneńczyka
+19 : Aleja Solidarności
+25 : Aleja Solidarności
+27 : Plac Rapackiego
+29 : Plac Armii Krajowej
+30 : Park Tysiąclecia
+30 : Dworzec Główny
+31 : Strzałowa
+32 : Stawki
+33 : Dandelskiego
+34 : Brązowa
+34 : Kniaziewicza
+35 : Biała
+36 : 63. Pułku Piechoty
+37 : Letnia
+38 : Drzymały
+39 : Parkowa
+40 : Poznańska (komisariat)
+40 : Kluczyki
+41 : Kluczyki Cmentarz
+41 : Polmozbyt
+42 : Kręta
+42 : Stepowa
+43 : Gniewkowska
+44 : Bliska
+45 : Szubińska
+-----
+0 : 7
+1 : 7
+2 : 7
+3 : 7
+4 : 7
+=====
+24
+0 : Aleja Solidarności
+2 : Odrodzenia
+4 : Warneńczyka
+6 : Kościuszki
+7 : Sczanieckiego
+9 : Kozacka
+10 : Wielki Rów
+12 : Polna
+14 : Fort V
+15 : Forteczna
+16 : Rybińskiego
+17 : Forteczna (pętla)
+-----
+5 : 22
+7 : 25
+13 : 25
+21 : 25
+=====
+45
+0 : Rubinkowo II
+3 : Wyszyńskiego
+4 : Ligi Polskiej
+5 : Kosynierów Kośc.
+6 : Olimpijska
+8 : Kusocińskiego
+9 : Słupska
+15 : Lubicz Dolny
+17 : Lubicz Górny
+20 : Brzozówka
+23 : Głogowo
+26 : Dobrzejewice
+27 : Dobrzejewice-staw
+29 : Zawały I
+32 : Kawęczyn
+35 : Obrowo
+-----
+4 : 15,40
+5 : 8,55
+6 : 25
+7 : 22
+8 : 50
+12 : 0
+14 : 0
+15 : 35
+16 : 10
+17 : 18
+18 : 50
+21 : 20
+=====
+39
+0 : Drwęca
+1 : Wodna
+1 : Skierki
+2 : Fantazyjna
+4 : Dyngusowa
+6 : Dożynkowa
+7 : Księżycowa
+9 : Ligi Polskiej
+10 : Wyszyńskiego
+11 : Ślaskiego
+13 : Rubinkowo II
+13 : Dziewulskiego
+16 : Barwna
+17 : Szczecińska
+18 : Ostrołęcka
+19 : Krynicka
+21 : Suwalska
+23 : Cegielnia
+24 : Ceramiczna
+25 : EC Grębocin
+27 : Bajeczna
+30 : Nad Strugą
+-----
+6 : 58
+7 : 26
+8 : 5,49
+13 : 27
+14 : 7,37
+15 : 17,48
+=====
+13
+0 : Dworzec Wschodni
+3 : Świętopełka
+6 : Warneńczyka
+9 : Odrodzenia
+11 : Osiedle Młodych
+13 : Plac Rapackiego
+16 : Plac Armii Krajowej
+17 : Park Tysiąclecia
+18 : Dworzec Główny
+19 : Łódzka
+20 : Podgórska
+22 : Rudacka
+24 : Szkoła
+25 : Skrzetuskiego
+26 : Działki Rudak
+27 : Gliniecka
+-----
+5 : 0,30
+6 : 0,30
+7 : 3,30
+8 : 0,27
+9 : 5,43
+10 : 15,50
+11 : 25
+12 : 0,25,45
+13 : 10,35
+14 : 0,25,50
+15 : 15,40
+16 : 20,50
+17 : 30
+18 : 10,50
+19 : 27
+20 : 10,45
+21 : 15,45
+22 : 25
+=====
+31
+0 : Olimpijska
+1 : Kosynierów Kośc.
+2 : Ligi Polskiej
+3 : Wyszyńskiego
+5 : Ślaskiego
+7 : Jamontta
+8 : Przy Skarpie
+10 : Leszczynowa
+12 : Plac Daszyńskiego
+14 : Dworzec Wschodni
+17 : Garbaty Mostek
+19 : Przy Kaszowniku
+22 : Uniwersytecka
+24 : Aleja Solidarności
+27 : Bema
+28 : Małachowskiego
+30 : Wybickiego
+31 : Żwirki i Wigury
+33 : Bartkiewiczówny
+34 : Dworzec Północny
+35 : św. Antoniego
+37 : Lisia
+38 : Chabrowa
+39 : Lniana
+41 : Zagonowa
+42 : Wrzosy I
+44 : os. Leśne-Polana
+48 : Barbarka
+-----
+4 : 52
+5 : 12,32,52
+6 : 12,32,52
+7 : 14,32,52
+8 : 12,32,52
+9 : 12,32,52
+10 : 12,32,52
+11 : 12,32,52
+12 : 12,32,52
+13 : 12,32,52
+14 : 12,32,52
+15 : 12,32,52
+16 : 12,32,52
+17 : 12,32,51
+18 : 16,41
+19 : 6,31,56
+20 : 21,46
+21 : 11,36
+22 : 9,42
+=====
+21
+0 : Plac św. Katarzyny
+3 : Aleja Solidarności
+6 : Przy Kaszowniku
+8 : Garbaty Mostek
+9 : Olbrachta
+11 : Dworzec Wschodni
+13 : Wschodnia
+15 : Donimirskiego
+17 : Rubinkowo Centrum
+19 : Manhattan
+20 : Przybyłów
+23 : Dziewulskiego
+26 : Barwna
+27 : Szczecińska
+28 : Suwalska
+30 : Cegielnia
+31 : Bajeczna
+32 : Nad Rzeczką
+33 : Meprozet
+34 : Wapienna
+37 : Kresowa
+38 : Toruńska
+40 : Grębocin
+42 : Kolonia Papowska
+45 : Grębocin
+46 : Ośrodek Zdrowia
+48 : Ogrodnik
+50 : Rogówko
+53 : Brzeźno
+57 : Gronowo
+-----
+4 : 38
+5 : 0
+6 : 6,23,58
+8 : 40
+9 : 10
+10 : 40
+11 : 15
+13 : 0,10,35
+14 : 50
+15 : 30
+16 : 10,45
+17 : 50
+18 : 55
+19 : 50
+20 : 55
+21 : 7
+22 : 28
+=====
+10
+0 : Strobanda (pętla)
+0 : Grasera
+2 : Hubego
+3 : Freytaga
+4 : Wiśniowieckiego
+7 : Koniuchy
+8 : Osiedle Tysiąclecia
+10 : Lelewela
+12 : Dekerta
+13 : Legionów
+16 : Aleja Solidarności
+19 : Plac Rapackiego
+22 : Plac Armii Krajowej
+23 : Hallera
+25 : Parkowa
+26 : Poznańska (komisariat)
+27 : Kluczyki
+28 : Kluczyki Cmentarz
+28 : Polmozbyt
+29 : Kręta
+29 : Stepowa
+30 : Gniewkowska
+31 : Bliska
+32 : Szubińska
+-----
+5 : 5,35
+6 : 5,25,45
+7 : 10,40
+8 : 10,40
+9 : 10,40
+10 : 10,40
+11 : 10,40
+12 : 10,37
+13 : 1,25,49
+14 : 13,37
+15 : 1,25,49
+16 : 13,40
+17 : 10,40,55
+18 : 28
+19 : 8,48
+20 : 28
+21 : 8,48
+22 : 30
+=====
+14
+0 : Okólna
+2 : Brązowa
+3 : Kniaziewicza
+4 : Plebiscytowa
+5 : Strzałowa
+6 : Dworzec Główny
+7 : Plac Armii Krajowej
+10 : Plac Rapackiego
+13 : Aleja Solidarności
+15 : Odrodzenia
+17 : Warneńczyka
+19 : Kościuszki
+21 : Sczanieckiego
+22 : Kozacka
+24 : Wielki Rów
+25 : Polna
+26 : Batorego
+28 : Debowa Góra
+29 : Kanałowa
+30 : Kociewska
+31 : Fort IV
+32 : Mazowiecka
+34 : Cmentarz Centr. II Brama
+35 : Cmentarz Centralny
+-----
+4 : 55
+5 : 21,50
+6 : 20,47
+7 : 13,41
+8 : 21
+9 : 1,38
+10 : 8,38
+11 : 8,38
+12 : 8,38
+13 : 8,38
+14 : 8,38
+15 : 8,38
+16 : 8,38
+17 : 8,38
+18 : 8,38
+19 : 8,38
+20 : 8,38
+21 : 8,32,58
+22 : 17,54
+23 : 8
+=====
+20
+0 : Strobanda (pętla)
+0 : Grasera
+2 : Hubego
+3 : Freytaga
+4 : Wiśniowieckiego
+7 : Koniuchy
+8 : Osiedle Tysiąclecia
+10 : Lelewela
+12 : Dekerta
+13 : Legionów
+16 : Aleja Solidarności
+19 : Plac Rapackiego
+22 : Plac Armii Krajowej
+23 : Hallera
+25 : Parkowa
+26 : Poznańska (komisariat)
+27 : Kluczyki
+28 : Kluczyki Cmentarz
+28 : Polmozbyt
+29 : Kręta
+29 : Stepowa
+30 : Gniewkowska
+31 : Osiedle Leśny Zakątek
+32 : Baza Transportu
+33 : Poznańska
+34 : Poznańska II
+35 : Glinki
+-----
+4 : 50
+5 : 20,50
+6 : 15,35,55
+7 : 25,55
+8 : 25,55
+9 : 25,55
+10 : 25,55
+11 : 25,55
+12 : 25,49
+13 : 13,37
+14 : 1,25,49
+15 : 13,37
+16 : 1,25,55
+17 : 25
+18 : 10,48
+19 : 28
+20 : 8,48
+21 : 28
+22 : 15
+=====
+C
+0 : Bielawy
+2 : Olimpijska
+3 : Kosynierów Kośc.
+4 : Ligi Polskiej
+5 : Wyszyńskiego
+7 : Ślaskiego
+9 : Przybyłów
+10 : Manhattan
+12 : Rubinkowo Centrum
+13 : Donimirskiego
+15 : Wschodnia
+17 : Dworzec Wschodni
+19 : Świętopełka
+21 : Kościuszki
+22 : Sczanieckiego
+24 : Kozacka
+26 : Wielki Rów
+28 : Polna
+29 : Cmentarz Centralny
+-----
+8 : 28
+9 : 0,40
+10 : 12,52
+11 : 32
+12 : 12,52
+13 : 29
+14 : 4,39
+15 : 14,49
+16 : 34
+17 : 9,40
+18 : 15
+=====
+37
+0 : Plac św. Katarzyny
+3 : Aleja Solidarności
+6 : Przy Kaszowniku
+8 : Garbaty Mostek
+9 : Olbrachta
+11 : Dworzec Wschodni
+14 : Tofama
+15 : Przychodnia
+17 : Elana B
+18 : Bukowa
+19 : Chrzanowskiego
+21 : Barwna
+22 : Szczecińska
+23 : Suwalska
+25 : Cegielnia
+26 : Bajeczna
+27 : Nad Rzeczką
+28 : Meprozet
+29 : Wapienna
+32 : Kresowa
+33 : Toruńska
+35 : Grębocin
+37 : Kolonia Papowska
+40 : Grębocin
+41 : Ośrodek Zdrowia
+43 : Ogrodnik
+45 : Rogówko
+48 : Brzeźno
+52 : Gronowo
+-----
+5 : 46
+7 : 45
+10 : 5
+11 : 50
+12 : 25
+14 : 5
+=====
+38
+0 : Odrodzenia
+3 : Aleja Solidarności
+6 : Plac Rapackiego
+9 : Plac Armii Krajowej
+10 : Hallera
+11 : Drzymały
+14 : Letnia
+15 : 63. Pułku Piechoty
+16 : Biała
+17 : Kniaziewicza
+18 : Plebiscytowa
+20 : Strzałowa
+21 : Łódzka
+22 : Podgórska
+23 : Grzybowa
+24 : Telimeny
+25 : Strzałowa II
+26 : Zakole
+27 : Stawki
+28 : Stacja Benzynowa
+29 : Zimowa
+31 : Ceramika
+32 : Lipnowska
+34 : Włocławska
+35 : Solankowa
+37 : Czerniewice
+38 : Zdrojowa
+39 : Spacerowa
+-----
+4 : 57
+5 : 31,57
+6 : 31,54
+7 : 5,34
+8 : 21
+9 : 11,56
+10 : 41
+11 : 26
+12 : 11,56
+13 : 41
+14 : 27
+15 : 12,57
+17 : 3,33
+18 : 3
+22 : 26
+=====
+27
+0 : Barbarka
+0 : os. Leśne - Polana
+0 : Wrzosy I
+1 : Czeremchowa
+4 : Słoneczna
+5 : Chabrowa
+7 : Lisia
+8 : św. Antoniego
+10 : Bartkiewiczówny
+12 : Żwirki i Wigury
+14 : Wybickiego
+16 : Bema
+19 : Aleja Solidarności
+22 : Plac Rapackiego
+25 : Plac Armii Krajowej
+27 : Dworzec Główny
+-----
+4 : 45
+5 : 5,25,45
+6 : 5,25,45
+7 : 3,20,36,57
+8 : 25,45
+9 : 5,25,45
+10 : 5,25,45
+11 : 5,25,45
+12 : 5,25,45
+13 : 5,25,45
+14 : 5,25,45
+15 : 3,23,43
+16 : 5,27,47
+17 : 0,22,47
+18 : 12,39
+19 : 4,29,52
+20 : 17,42
+21 : 7,32,49
+22 : 20,35
+=====
+29
+0 : Olimpijska
+1 : Kosynierów Kośc.
+2 : Ligi Polskiej
+3 : Wyszyńskiego
+5 : Ślaskiego
+7 : Przybyłów
+8 : Manhattan
+10 : Rubinkowo Centrum
+11 : Donimirskiego
+13 : Wschodnia
+16 : Dworzec Wschodni
+17 : Plac Daszyńskiego
+19 : Plac Daszyńskiego
+23 : Rypińska
+25 : Działki Rudak
+26 : Skrzetuskiego
+27 : Szkoła
+31 : Grzybowa
+32 : Telimeny
+33 : Strzałowa II
+34 : Zakole
+35 : Stawki
+37 : Dandelskiego
+40 : Okólna
+42 : Brązowa
+43 : Kniaziewicza
+44 : Biała
+45 : 63. Pułku Piechoty
+47 : Letnia
+48 : Drzymały
+50 : Parkowa
+51 : Poznańska (komisariat)
+52 : Kluczyki
+53 : Kluczyki Cmentarz
+54 : Polmozbyt
+55 : Kręta
+56 : Stepowa
+57 : Gniewkowska
+58 : Bliska
+59 : Szubińska
+-----
+4 : 57
+5 : 35
+6 : 10,35
+7 : 5,35
+8 : 5,35
+9 : 5,35
+10 : 5,35
+11 : 5,35
+12 : 5,35
+13 : 5,35
+14 : 5,35
+15 : 5,35
+16 : 15,51
+17 : 0,45
+18 : 30
+19 : 15
+20 : 0,45
+21 : 30
+22 : 15,44
+=====
+46
+0 : Rubinkowo II
+3 : Wyszyńskiego
+4 : Ligi Polskiej
+6 : Księżycowa
+8 : Dożynkowa
+9 : Kogucia
+10 : Drwęca
+12 : Pomorska
+14 : Złotoria I
+15 : Złotoria II
+16 : Grabowiec I
+17 : Grabowiec II
+18 : Grabowiec-Wieś
+20 : Silno I
+21 : Silno II
+22 : Silno III
+24 : Silno IV
+26 : Dzikowo
+28 : Dzikowo skrz.
+30 : Osiek
+31 : Osiek-Szkoła
+32 : Osiek-Siciny II
+34 : Osiek-Siciny I
+36 : Sąsieczno
+37 : Kolonia Obrowska
+39 : Obrowo-Osiedle
+41 : Obrowo
+-----
+5 : 30,58
+6 : 3
+7 : 0
+10 : 30
+13 : 30
+14 : 30
+15 : 0
+16 : 2,35
+18 : 20
+19 : 55
+22 : 43
+=====
