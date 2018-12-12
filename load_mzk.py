@@ -29,18 +29,21 @@ while True:
     transp_data[bus_no] = (time_table, route)
 
 
+driver = neo4j.GraphDatabase().driver('bolt://localhost:7687', auth=('neo4j', 'dupablada'))
 #%%
 
 stops = set()
-connected_stops = set()
+connected_stops = {}
 for bus_no, (time_table, route) in transp_data.iteritems():
     for time, stop in route:
         stops.add(stop)
 
     for stop_from, stop_to in zip(route[1:], route[:-1]):
-        connected_stops.add((stop_from[1], stop_to[1]))
+        sf, st = min(stop_from[1], stop_to[1]), max(stop_from[1], stop_to[1])
+        connected_stops[sf, st] =  int(stop_from[0]) - int(stop_to[0])
 
 
+#%%
 
 def create_stops(tx, all_stops):
     for stop in all_stops:
@@ -48,13 +51,26 @@ def create_stops(tx, all_stops):
         tx.run(q)
 
 def create_connections(tx, connected_stops):
-    for stop_from, stop_to in connected_stops:
-        q = ("MATCH (a:STOP{name:'%s'}),(b:STOP{name:'%s'})"  % (stop_from, stop_to)) + \
-                " CREATE (a)-[r:CONNECTED]->(b)"
+    for (stop_from, stop_to), time in connected_stops.iteritems():
+        q = ("MATCH (a:STOP{name:'%s'}),(b:STOP{name:'%s'})"  % (stop_from, stop_to)) \
+                + " MERGE (a)-[:CONNECTED{time:%s}]-(b) " % time
         tx.run(q)
 
-driver = neo4j.GraphDatabase().driver('bolt://localhost:7687', auth=('neo4j', 'dupablada'))
+def create_buses(tx, transp_data):
+    for bus_no, data in transp_data.iteritems():
+        q = "CREATE (:BUS{line:'%s'})" % bus_no
+        tx.run(q)
+        for minutes, stop_name in data[1]:
+            q = ("MATCH (b:BUS{line:'%s'}), (s:STOP{name:'%s'})" % (bus_no, stop_name)) \
+                + " CREATE (b)-[:STOPS_AT]->(s)"
+            tx.run(q)
+
 
 with driver.session() as session:
     session.write_transaction(create_stops, stops)
     session.write_transaction(create_connections, connected_stops)
+    session.write_transaction(create_buses, transp_data)
+
+#%%
+with driver.session() as session:
+    session.write_transaction(lambda tx: tx.run('MATCH (n) DETACH DELETE n'))
